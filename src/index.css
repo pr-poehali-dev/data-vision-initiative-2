@@ -97,6 +97,12 @@
 
   body {
     @apply bg-background text-foreground;
-    font-family: 'Montserrat', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family:
+      "Inter",
+      "Rajdhani",
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      sans-serif;
   }
 }
